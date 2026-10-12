@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://mahaamimran.github.io/traytrack-site/sitemap.xml
